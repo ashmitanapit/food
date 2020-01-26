@@ -8,7 +8,7 @@ import './assets/css/variables.css'
 import './assets/css/theme.css';
 import './assets/css/page.css';
 import Home from './views/Home/Home';
-import FoodItems from "./views/FoodItems/FoodItems";
+import FooditemsTest from "./views/FoodItems/FooditemsTest";
 import About from "./views/About/About";
 import Contacts from "./views/Contacts/Contacts";
 import Welcome from "./views/Welcome/Welcome";
@@ -53,7 +53,7 @@ class App extends Component {
                         <Route exact path="/search/" component={Home}/>
                         {/*<Route exact path="/login/" component={Login}/>*/}
                         <Route exact path="/about/" component={About}/>
-                        <Route exact path="/item/:id" component={FoodItems}/>
+                        <Route exact path="/item/:id" component={FooditemsTest}/>
                         <Route exact path="/contacts/" component={Contacts}/>
                     </Switch>
             </main>
