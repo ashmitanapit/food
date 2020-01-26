@@ -1,6 +1,8 @@
 import React, {Component} from 'react';
 import item from '../../utils/foods';
 import Dialog from "../../component/Dialog/Dialog";
+import { withRouter } from 'react-router-dom';
+
 import './FoodItems.css'
 
 
@@ -47,4 +49,4 @@ class FoodItems extends Component {
     }
 }
 
-export default FoodItems;
+export default withRouter(FoodItems);

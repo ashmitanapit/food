@@ -3,7 +3,7 @@ import './RecipeBox.css'
 import {Link} from "react-router-dom";
 
 const RecipeBox = (props) => (
-    <Link to={`item/${props.item.id}`} className="recipe-box">
+    <Link to={`/item/${props.item.id}`} className="recipe-box">
         <img src={props.item.image} alt=""/>
         <div className="recipe-title">{props.item.title}</div>
         <div className="recipe-secondary-details">

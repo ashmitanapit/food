@@ -8,7 +8,7 @@ class About extends Component {
         return (
             <section className={'about'}>
                 <div className="picture">
-                    <img src={picture} alt ="Table" height={600} width={1380}/>
+                    <img src={picture} alt ="Table" height={2000} width={2000}/>
                 </div>
 
                 <div className="info">
