@@ -1,7 +1,18 @@
 .FoodItems{
-    width: 400px;
+    width: 100%;
     height: 100%;
+
+    background-image: url("../../assets/images/Pages/pictures.jpeg")!important;
+
+
+}
+/*.FoodItems::after{*/
+/*    background-image: url("../../assets/images/Pages/pictures.jpeg")!important;*/
+/*    opacity: 0.2;*/
+/*}*/
+.foodie{
     margin-left: 500px;
+    width:413px;
 }
 .image-area>img{
     border: 1px solid #ddd;
@@ -16,7 +27,7 @@
     font-size: 60px;
 
 }
-.description{
+.description-area{
     text-align: justify;
-    cursor: context-menu;
+    cursor:default;
 }

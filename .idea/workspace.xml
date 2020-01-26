@@ -3,11 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="793a02b9-f0ad-440f-b8a0-4c4a080171ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/component/Dialog/Dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialog/Dialog.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/Dialog/DialogTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialog/DialogTest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FooditemsTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FooditemsTest.js" afterDir="false" />
     </list>
+=======
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> e5b3cbbf357534f5cfa61837d1ea176d8cae2c48
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,20 +32,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/containers/Topnav" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\food\food\src\containers\Topnav" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -59,12 +70,35 @@
       <workItem from="1579774968512" duration="751000" />
       <workItem from="1579776388749" duration="1641000" />
       <workItem from="1579835303945" duration="3144000" />
+<<<<<<< HEAD
       <workItem from="1580008010094" duration="12217000" />
+=======
+      <workItem from="1580009526588" duration="2295000" />
+      <workItem from="1580011955873" duration="1796000" />
+      <workItem from="1580013784075" duration="1837000" />
+      <workItem from="1580015652002" duration="1807000" />
+      <workItem from="1580017484720" duration="923000" />
+      <workItem from="1580019823416" duration="1494000" />
+      <workItem from="1580021900888" duration="37000" />
+>>>>>>> e5b3cbbf357534f5cfa61837d1ea176d8cae2c48
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1579774962173">

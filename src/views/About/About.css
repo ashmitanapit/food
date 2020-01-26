@@ -1,4 +1,4 @@
-p{
+#abc{
     position: absolute;
     top: 50px;
 
@@ -10,7 +10,7 @@ p{
     padding-right: 20px;
 
 }
-p4{
+#cd{
     position: absolute;
     top: 300px;
 
@@ -22,10 +22,10 @@ p4{
     padding-right: 20px;
 
 }
-.about{
-    width: 100%;
-    height: 100%;
-    opacity:0.5;
+.picture{
+    width: auto;
+    height: auto;
+    opacity:0.4;
     position: absolute;
 
 }

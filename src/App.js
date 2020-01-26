@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
+import Logo from './logo.svg';
 import './App.css';
 import {Route, Switch} from 'react-router-dom';
 import Topnav from "./containers/Topnav/Topnav";
@@ -22,19 +22,19 @@ class App extends Component {
             meal: ""
         }
     }
-    componentDidMount() {
-        const URL = 'https://developers.zomato.com/api/v2.1/cuisines';
-        axios.get(URL)
-            .then(res => {
-                const meal = res.data.meals; //Taking just the required data
-                if (typeof meal === 'object') {
-                    this.setState({meal});// setting it to state of our app
-                }
-            })
-            .catch(error => {
-                console.log(error);
-            });
-    }
+    // componentDidMount() {
+    //     const URL = 'https://developers.zomato.com/api/v2.1/cuisines';
+    //     axios.get(URL)
+    //         .then(res => {
+    //             const meal = res.data.meals; //Taking just the required data
+    //             if (typeof meal === 'object') {
+    //                 this.setState({meal});// setting it to state of our app
+    //             }
+    //         })
+    //         .catch(error => {
+    //             console.log(error);
+    //         });
+    // }
 
 
 
@@ -49,6 +49,8 @@ class App extends Component {
                     <Switch>
                         <Route exact path="/" component={Welcome}/>
                         <Route exact path="/explore/" component={Home}/>
+                        <Route exact path="/search/:query" component={Home}/>
+                        <Route exact path="/search/" component={Home}/>
                         {/*<Route exact path="/login/" component={Login}/>*/}
                         <Route exact path="/about/" component={About}/>
                         <Route exact path="/item/:id" component={FooditemsTest}/>
