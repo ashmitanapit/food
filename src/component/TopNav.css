@@ -1,0 +1,23 @@
+.topnav{
+display:flex;
+ /* align-items:center;*/
+  height:20vh;
+  justify-content: space-between;
+  
+  box-sizing: border-box; 
+  
+  width:100%;
+ /* background:rgba(120,150,200,1.0);*/
+ background: #6495ed;
+  color:white;
+ 
+font-size: 32pt;
+font-family:'cochin';
+padding:9vh 1vw 0;
+   
+}
+.box{
+	float:left;
+	width:25%;
+	padding:50 px;
+}

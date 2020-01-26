@@ -1,0 +1,29 @@
+.recipe-box{
+    width:32%;
+    border:1px solid rgba(0,0,0,0.2);
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.12);
+    text-decoration: none;
+    cursor:pointer;
+    margin:10px 0;
+}
+.recipe-box img{
+    height:100px;
+    width:100%;
+    object-fit: cover;
+    object-position: center;
+}
+.recipe-box .recipe-title{
+    font-weight: bold;
+    font-size:1.2rem;
+}
+
+.recipe-box .recipe-secondary-details{
+    display: flex;
+    padding:10px;
+    justify-content: space-between;
+}
+
+

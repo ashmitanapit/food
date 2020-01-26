@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8c77749-20fd-44ca-8ad6-c9f960d8ecb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/About/About.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/About/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Contacts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Contacts/Contacts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/FoodItems/FoodItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Fooditems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Home/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Home/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/css/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/css/variables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/BatterFish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/ButterChicken.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/ChickenandCheeseSalad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/DimSum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/EggyBreadBit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/FishandChip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/Mooncake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/Penne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/Prawns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/Pretzel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/RajmaChawal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/Samosa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/Waffle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/Wonton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/banner.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/gimme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/momo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/pizza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/assets/images/welcome.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/burger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/component/Dialog/Dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/component/Dialog/Dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/component/Logo/Logo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/component/RecipeBox/RecipeBox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/component/RecipeBox/RecipeBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/component/TopNav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/containers/Topnav/TopNav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/containers/Topnav/Topnav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/fries.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/momo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/pexels-photo-316466.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/pizza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/sandwich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/utils/categories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/utils/foods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/About/About.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/About/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/Contacts/Contacts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/FoodItems/FoodItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/Home/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/Home/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/Login/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/Login/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/Welcome/Welcome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/views/Welcome/Welcome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/about.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/css/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/css/variables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/BatterFish.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/ButterChicken.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/ChickenandCheeseSalad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/DimSum.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/EggyBreadBit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/FishandChip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Mooncake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pages/background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pages/burger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pages/fries.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pages/momo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pages/pexels-photo-316466.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pages/pizza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pages/sandwich.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Penne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Prawns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Pretzel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/RajmaChawal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Samosa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Waffle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/Wonton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/banner.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/gimme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/momo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/pizza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/assets/images/welcome.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/component/Dialog/Dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/component/Dialog/Dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/component/Logo/Logo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/component/RecipeBox/RecipeBox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/component/RecipeBox/RecipeBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/component/TopNav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/containers/Topnav/TopNav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/containers/Topnav/Topnav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/utils/categories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/utils/foods.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/About/About.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/About/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/Contacts/Contacts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/FoodItems/FoodItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/Home/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/Home/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/Login/Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/Login/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/Welcome/Welcome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/Welcome/Welcome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/categories.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WjR4ztfrtBNrzi7DPz1v7ANB1w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c77749-20fd-44ca-8ad6-c9f960d8ecb9" name="Default Changelist" comment="" />
+      <created>1579660832222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579660832222</updated>
+      <workItem from="1579660838452" duration="1428000" />
+      <workItem from="1579677000141" duration="1616000" />
+      <workItem from="1579678812495" duration="1882000" />
+      <workItem from="1579680739819" duration="1777000" />
+      <workItem from="1579682723589" duration="1690000" />
+      <workItem from="1579684513066" duration="1669000" />
+      <workItem from="1579926709598" duration="449000" />
+      <workItem from="1579942670413" duration="53000" />
+      <workItem from="1579959582759" duration="4407000" />
+      <workItem from="1579964106452" duration="321000" />
+      <workItem from="1579964449647" duration="10023000" />
+      <workItem from="1579977157186" duration="5799000" />
+      <workItem from="1580006498135" duration="982000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="151" key="run.anything.popup" timestamp="1579968781708">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1579968781708" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1579960476469">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1579960476469" />
+  </component>
+</project>
