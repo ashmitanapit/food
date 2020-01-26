@@ -31,7 +31,7 @@ class FooditemsTest extends React.Component{
 
     render () {
         return (
-            <div className="foot-item">
+            <div className="food-item">
                 <div className="image-area"><img src={this.state.item.image} alt=""/></div>
                 <div className="description-area">
                     <div className="title">{this.state.item.title}</div>

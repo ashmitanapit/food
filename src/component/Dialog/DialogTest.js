@@ -37,9 +37,10 @@ class DialogTest extends React.Component {
 			<div className = "modal">
 				<div className = "modal-box">
 					<div className = "form-area">
-
+						{ this.state.displayValid ? (
+							this.state.valid ? <p>Ready to be delivered</p> : <p>       Invalid</p>
+						) : <p></p> }
 						<h1>Do you want to place your order</h1>
-
 						<form>
 							<label  >Name:</label>
 		                   	<input type="text-area" id="name" value={this.state.name} name="name" placeholder="Enter name.." required={true} onChange={this.handleChange}/><br/>

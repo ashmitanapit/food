@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="793a02b9-f0ad-440f-b8a0-4c4a080171ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/FoodItems/FooditemsTest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/Dialog/Dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialog/Dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Dialog/Dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialog/Dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/Dialog/DialogTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/Dialog/DialogTest.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FooditemsTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FooditemsTest.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
       <workItem from="1579774968512" duration="751000" />
       <workItem from="1579776388749" duration="1641000" />
       <workItem from="1579835303945" duration="3144000" />
-      <workItem from="1580008010094" duration="9886000" />
+      <workItem from="1580008010094" duration="12217000" />
     </task>
     <servers />
   </component>
