@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="793a02b9-f0ad-440f-b8a0-4c4a080171ca" name="Default Changelist" comment="" />
+    <list default="true" id="793a02b9-f0ad-440f-b8a0-4c4a080171ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/Pages/background.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Foods.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Foods.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/foods.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/foods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Welcome/Welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Welcome/Welcome.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Wn7QJXktqDGumJSex2xQ9ZLg0s" />
   <component name="ProjectViewState">
@@ -15,21 +33,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/containers/Topnav" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\food\food\src\containers\Topnav" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -48,11 +73,30 @@
       <workItem from="1579774968512" duration="751000" />
       <workItem from="1579776388749" duration="1641000" />
       <workItem from="1579835303945" duration="3144000" />
+      <workItem from="1580009526588" duration="2295000" />
+      <workItem from="1580011955873" duration="1796000" />
+      <workItem from="1580013784075" duration="1837000" />
+      <workItem from="1580015652002" duration="1807000" />
+      <workItem from="1580017484720" duration="923000" />
+      <workItem from="1580019823416" duration="1411000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1579774962173">
