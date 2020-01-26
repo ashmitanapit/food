@@ -5,12 +5,15 @@ import categories from "../../utils/categories";
 import foods from "../../utils/foods";
 
 
+
+
 class Search extends Component {
 
 	state={
 		searchTerm:''
 	}
 	changeSearchTerm =(e)=>{
+		console.log(e);
 		if(e.key==='Enter'){
 			this.Search()
 		}else{
@@ -25,10 +28,15 @@ class Search extends Component {
     render() {
         return (
             // <div className='search'>
+
                 <div class="search-box">
                 <input type="text" className="input" onKeyUp={(e)=>this.changeSearchTerm(e)} placeholder="Search Everything"/>
+				
 				{/*<Link to={"/search/"+this.state.searchTerm}><i style={{color:'white'}} className="fas fa-search"></i>	</Link>*/}
             </div>
+
+
+            
         )
     }
 }
