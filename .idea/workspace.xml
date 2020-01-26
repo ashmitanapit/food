@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="793a02b9-f0ad-440f-b8a0-4c4a080171ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/About.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/Pages/background.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Foods.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Foods.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/foods.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/foods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/About/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/FoodItems/FoodItems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Welcome/Welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Welcome/Welcome.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +66,8 @@
       <workItem from="1580013784075" duration="1837000" />
       <workItem from="1580015652002" duration="1807000" />
       <workItem from="1580017484720" duration="923000" />
-      <workItem from="1580019823416" duration="1411000" />
+      <workItem from="1580019823416" duration="1494000" />
+      <workItem from="1580021900888" duration="37000" />
     </task>
     <servers />
   </component>
